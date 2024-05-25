@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "simonType";
+    src: url(../type/Roobert-Regular.otf);
+}
+#line{
+    margin: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    margin-right: 20px;
+    margin: 40px 20px 60px 20px;
+    margin: 40px 60px;
+    margin: 0 60px;
+}
+
+
+body{
+    width: 98%;
+    max-width: 1280px ;
+    margin: 0 auto;
+}
+nav{
+    background-color: aqua;
+    color: red;
+    color: #d64141;
+}
+div{
+    /* background-color: blue; */
+    color: white;
+}
+
+.sectionGreen{
+    background-color: black;
+    color: greenyellow;
+}
+section{
+    margin-top: 50px;
+}
+#imgSpoty{
+    width: 300px;
+    background-color: white;
+    padding: 24px;
+    color: black;
+    border-radius: 8px;
+}
+#imgSpoty img{
+    width: 100%;
+}
+
+
+#type{
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-size: 50px;
+	color: aqua;
+}

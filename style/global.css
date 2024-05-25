@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "simonType";
+    src: url(../type/Roobert-Regular.otf);
+}
+
+body{
+    background-color: red;
+}
+
+h1{
+    font-family: "simonType";
+    font-size: 20px;
+}
